@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        maven {
+            url = "https://nexus.tcsbank.ru/repository/gradle-plugins/"
+        }
+    }
+}
+
+rootProject.name = 'patterns-task'
